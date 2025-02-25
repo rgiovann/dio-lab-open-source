@@ -88,6 +88,9 @@ Implementação de um programa que utiliza estruturas de controle de fluxo em Ja
 ### 3. [Desafio Conta Bancária](https://github.com/rgiovann/dio-bradesco-desafio-conta-banco)
 Simulação de um sistema bancário simplificado em Java, implementando funcionalidades básicas como criação de contas, operações de depósito, saque e transferência, utilizando conceitos de encapsulamento e abstração.
 
+### 4. [Banco Digital - Extensão do Desafio DIO](https://github.com/rgiovann/dio-bradesco-lab-banco-digital-modified)
+Extensão do desafio original "Criando um Banco Digital com Java e Orientação a Objetos" do bootcamp DIO-Bradesco. Neste projeto, foram adicionadas melhorias como listagem de contas do banco e o uso da biblioteca Lombok para reduzir código boilerplate e facilitar a implementação de métodos como getters, setters e toString().
+
 ## 🚀 Tecnologias Utilizadas
 
 - Java
